@@ -1,2 +1,2 @@
-var investimatorApp = angular.module('investimator', []);
+var appInvestimator = angular.module('investimator', []);
 
